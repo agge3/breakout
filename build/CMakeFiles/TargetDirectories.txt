@@ -1,0 +1,3 @@
+/home/agge3/projects/learning_sfml/superv1234_tutorial/build/CMakeFiles/practice_game.dir
+/home/agge3/projects/learning_sfml/superv1234_tutorial/build/CMakeFiles/edit_cache.dir
+/home/agge3/projects/learning_sfml/superv1234_tutorial/build/CMakeFiles/rebuild_cache.dir
